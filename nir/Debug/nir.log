@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\anon2\source\repos\nir\nir\Source.cpp(49,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anon2\source\repos\nir\nir\Source.cpp(126,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anon2\source\repos\nir\nir\Source.cpp(137,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\anon2\source\repos\nir\nir\Source.cpp(190,9): warning C4101: r: неиспользованная локальная переменная
+  nir.vcxproj -> C:\Users\anon2\source\repos\nir\Debug\nir.exe
